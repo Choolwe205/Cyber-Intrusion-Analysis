@@ -1,0 +1,12 @@
+Dataset
+
+The dataset used in this project is the UNSW-NB15 dataset.
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+Download the dataset here:
+https://www.kaggle.com/datasets/mrwellsdavid/unsw-nb15 
+
+After downloading, place the file inside the `data` folder:
+
+data/UNSW-NB15_uncleaned.csv
