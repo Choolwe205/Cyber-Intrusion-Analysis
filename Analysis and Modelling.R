@@ -249,8 +249,3 @@ print(conf_mat)
 
 #variable importance
 varImpPlot(rf_model, main = "Variable Importance - Random Forest")
-
-
-
-
-
